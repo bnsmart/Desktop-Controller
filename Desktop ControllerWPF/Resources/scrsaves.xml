@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<scripttable>
+  <Scripts>
+    <ID>1</ID>
+    <School>General Use</School>
+    <Script>"\\kingshurst08\Apps\@Master Copies\Hector\SafetyButtonBasicSetup-0.0.0.8.msi" /qn</Script>
+  </Scripts>
+  <Scripts>
+    <ID>2</ID>
+    <School>General Use</School>
+    <Script>"\\kingshurst08\Apps\@Master Copies\Hector\SafetyButtonBasicSetup-0.0.0.8.msi"</Script>
+  </Scripts>
+  <Scripts>
+    <ID>3</ID>
+    <School>kingshurst08</School>
+    <Script>\\kingshurst08\Apps\@Master Copies\Hector\SafetyButtonBasicSetup-0.0.0.8.msi</Script>
+  </Scripts>
+  <Scripts>
+    <ID>4</ID>
+    <School>General Use</School>
+    <Script>"\\kingshurst08\Apps\@Master Copies\Hector\SafetyButtonBasicSetup-0.0.0.8.msi"</Script>
+  </Scripts>
+  <Scripts>
+    <ID>5</ID>
+    <School>kingshurst08</School>
+    <Script>"\\kingshurst08\Apps\@Master Copies\Hector\SafetyButtonBasicSetup-0.0.0.8.msi"</Script>
+  </Scripts>
+  <Scripts>
+    <ID>6</ID>
+    <School>kingshurst08</School>
+    <Script>"\\kingshurst08\Apps\@Master Copies\Hector\SafetyButtonBasicSetup-0.0.0.8.msi" /qn</Script>
+  </Scripts>
+</scripttable>
